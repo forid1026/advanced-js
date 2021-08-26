@@ -4,6 +4,7 @@
 // ''
 // null
 // NAN
+// undefined
 
 //truly
 //  '0' ' ' {} [] 'false'
