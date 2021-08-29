@@ -6,6 +6,8 @@ const students = [
 
 ];
 
+
+
 // let studentName = [];
 // for (let i = 0; i < students.length; i++) {
 //     const element = students[i];
